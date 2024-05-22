@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/ebook_bootcamp_ia.png"
+    src="./assets/ebook_bootcamp_ia.jpg"
     width="400"  
 />
 </p>
@@ -15,7 +15,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 - [ChatGPT](https://chat.openai.com/);
 - [Designer Bing](https://www.bing.com/images/create);
-- [Google Apresentações](https://docs.google.com/presentation/create?hl=pt-BR)).
+- [Google Apresentações](https://docs.google.com/presentation/create?hl=pt-BR).
 
 ## 🧠 Prompts
 
